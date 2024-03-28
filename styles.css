@@ -1,0 +1,82 @@
+h2 {
+    color: brown;
+}
+
+
+/* Access the ID using # */
+
+#head1 {
+    color: blue;
+    font-size: 40px;
+}
+
+
+/* Access the class using . */
+
+.head2 {
+    color: blueviolet;
+    font-size: 30px;
+}
+
+.para {
+    color: black;
+}
+
+#para1 {
+    color: black;
+}
+
+#para2 {
+    color: darkblue;
+}
+
+nav {
+    background-color: antiquewhite;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+p {
+    position: relative;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    background-color: darkgray;
+    bottom: 0;
+    width: 100;
+    left: 0;
+}
+
+header {
+    margin-top: 50px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+img {}
